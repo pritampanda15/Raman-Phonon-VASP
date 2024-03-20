@@ -1,4 +1,4 @@
-The tutorial has been prepared to calculate Raman off-resonant activity calculator using VASP as a back-end.
+# The tutorial has been prepared to calculate Raman off-resonant activity calculator using VASP as a back-end.
 This tutorial has been referred from https://github.com/raman-sc/VASP.
 
 # Slurm script on HPC\Script to run RAMAN
