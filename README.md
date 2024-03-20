@@ -5,9 +5,11 @@ This tutorial has been referred from https://github.com/raman-sc/VASP.
 Before running the script:
 Do the following in the terminal:
 Load Python 2.7.14-anaconda
+
+```
 export VASP_RAMAN_RUN="mpprun /software/sse/manual/vasp/5.4.4.16052018/nsc1/vasp_std"
 export VASP_RAMAN_PARAMS="01_24_2_0.01"
-
+```
 ```
 #!/bin/bash
 #SBATCH --time=05:00:00
